@@ -42,7 +42,7 @@ Run the loader with a **statically linked ELF binary**:
 Example:
 
 ```bash
-./loader ./hello_static
+./elf-loader ./hello_static
 ```
 
 ---
