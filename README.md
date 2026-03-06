@@ -1,7 +1,5 @@
 # ELF-Loader
-Here is a **shorter, clean GitHub README** that still looks professional:
 
----
 
 # Minimal Linux ELF Loader
 
@@ -49,17 +47,3 @@ Example:
 
 ---
 
-## Notes
-
-* Only **64-bit static ELF binaries** are supported.
-* Dynamic executables are **not supported** (no dynamic linker).
-
----
-
-## License
-
-BSD 3-Clause License.
-
----
-
-If you want, I can also show you a **very common README structure used in OS / systems programming repos (MIT, Stanford, etc.)** that would make this look **even more academic and clean on GitHub.
