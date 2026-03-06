@@ -36,7 +36,7 @@ gcc -O2 -Wall loader.c -o loader
 Run the loader with a **statically linked ELF binary**:
 
 ```bash
-./loader <static-elf-binary>
+./elf-loader <static-elf-binary>
 ```
 
 Example:
